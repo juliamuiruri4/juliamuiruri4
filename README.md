@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+📫 You can reach me on [Linkedln](https://www.linkedin.com/in/juliamuiruri/) or [Twitter](https://twitter.com/juliamuiruri4)
 <!--
 **juliamuiruri4/juliamuiruri4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
