@@ -15,7 +15,7 @@
 
     [Watch video teaser](https://youtu.be/uvHpzcGqQ_k)
 - [What is a power platform connector and how can I build one from scratch?](https://techcommunity.microsoft.com/t5/educator-developer-blog/how-to-build-a-custom-connector-from-scratch/ba-p/3630760)
-- [How to create a connector from an OpenAPI Spec file and consume data from a Power App](https://techcommunity.microsoft.com/t5/educator-developer-blog/how-to-build-a-connector-from-an-openapi-spec-file-and-consume/ba-p/3631961)
+- [How to create an Independent publisher connector](https://techcommunity.microsoft.com/t5/educator-developer-blog/capstone-project-build-an-independent-publisher-connector/ba-p/3655738)
 
 <br>
 
