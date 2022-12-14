@@ -1,4 +1,5 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FFA500&width=435&lines=Hi there!;My+name+is+Julia+Muiruri!;Motivated%2C+Passionate+%26+Fast-learner;Thank+you+for+visiting+my+repo!" alt="Typing SVG" /></a>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!;My+name+is+Julia+Muiruri!;Motivated+Passionate+Fast-learner)](https://git.io/typing-svg)
 
 ## 👋 I'm Julia Muiruri
 
