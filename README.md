@@ -18,6 +18,12 @@
     </a>
     <a href="https://www.credly.com/badges/3abd1759-6fe2-4f9a-8e5d-78cb98ab01d1/public_url">
         <img align="center" 
+        src="https://images.credly.com/size/340x340/images/bd6603af-71b8-4e9a-a6d0-8d82b39ad505/image.png" 
+        alt="Julia-Global-hackathon"
+        width="140"/>
+    </a>
+    <a href="https://www.credly.com/badges/23009003-b850-4802-8b3d-def7d6a25550/public_url">
+        <img align="center" 
         src="https://images.credly.com/size/680x680/images/67b31c71-dec4-452d-8bef-a7ec39fc237e/GOL_Participant_Badge.png" 
         alt="Julia-Global-hackathon"
         width="140"/>
