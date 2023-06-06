@@ -49,6 +49,12 @@
         alt="Julia-Azure-certified" 
         width="120"/>
     </a>
+    <a href="https://www.credly.com/badges/f83b96ff-cc96-4d9b-a2b6-00e44c5852f8/public_url">
+        <img align="center" 
+        src="https://images.credly.com/size/340x340/images/3735a515-c10e-4c2d-ae6f-3bdca434170d/image.png" 
+        alt="Julia-Azure-certified" 
+        width="120"/>
+    </a>
 </p>
 
 ---
