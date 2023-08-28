@@ -28,6 +28,12 @@
         alt="Julia-Global-hackathon"
         width="140"/>
     </a>
+    <a href="https://www.credly.com/badges/7943a798-fad1-4c1a-96bd-7482e8cc4a91/public_url">
+        <img align="center" 
+        src="https://github.com/juliamuiruri4/Resource-bank/blob/main/Images/microsoft-global-hackathon-2023.png?raw=true" 
+        alt="Julia-Global-hackathon"
+        width="140"/>
+    </a>
 </p>
 
 <p align="center"> 
