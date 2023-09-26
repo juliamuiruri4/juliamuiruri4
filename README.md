@@ -30,8 +30,14 @@
     </a>
     <a href="https://www.credly.com/badges/7943a798-fad1-4c1a-96bd-7482e8cc4a91/public_url">
         <img align="center" 
-        src="https://github.com/juliamuiruri4/Resource-bank/blob/main/Images/microsoft-global-hackathon-2023.png?raw=true" 
+        src="https://images.credly.com/size/680x680/images/690dd7e4-e88a-4e4e-8681-f3b9d1119b2e/image.png" 
         alt="Julia-Global-hackathon"
+        width="140"/>
+    </a>
+    <a href="https://www.credly.com/badges/e02cc85c-6760-4825-8d1d-3a66994bd462/public_url">
+        <img align="center" 
+        src="https://images.credly.com/size/220x220/images/bb0cadc1-9666-4071-a1c9-8df3613669ce/image.png" 
+        alt="Julia-Global-hackathon-Certified-Ready"
         width="140"/>
     </a>
 </p>
@@ -59,6 +65,12 @@
         <img align="center" 
         src="https://images.credly.com/size/340x340/images/3735a515-c10e-4c2d-ae6f-3bdca434170d/image.png" 
         alt="Julia-Azure-certified" 
+        width="120"/>
+    </a>
+    <a href="https://www.credly.com/badges/27054ac0-e0f8-48f7-a7a2-4d7ae38aca4a/public_url">
+        <img align="center" 
+        src="https://images.credly.com/size/220x220/images/fa3cfe06-4515-4626-8333-c3b81b0d9c12/image.png" 
+        alt="Julia-SkillUpAI" 
         width="120"/>
     </a>
 </p>
