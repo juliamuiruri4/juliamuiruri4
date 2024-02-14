@@ -36,8 +36,8 @@
     </a>
     <a href="https://www.credly.com/badges/e02cc85c-6760-4825-8d1d-3a66994bd462/public_url">
         <img align="center" 
-        src="https://images.credly.com/size/220x220/images/bb0cadc1-9666-4071-a1c9-8df3613669ce/image.png" 
-        alt="Julia-Global-hackathon-Certified-Ready"
+        src="https://images.credly.com/size/340x340/images/eade341b-2218-4c62-bdd8-057d9a9bdef0/image.png" 
+        alt="Contoso Real Estate project"
         width="140"/>
     </a>
 </p>
@@ -72,6 +72,12 @@
         src="https://images.credly.com/size/220x220/images/fa3cfe06-4515-4626-8333-c3b81b0d9c12/image.png" 
         alt="Julia-SkillUpAI" 
         width="120"/>
+    </a>
+    <a href="https://www.credly.com/badges/e02cc85c-6760-4825-8d1d-3a66994bd462/public_url">
+        <img align="center" 
+        src="https://images.credly.com/size/220x220/images/bb0cadc1-9666-4071-a1c9-8df3613669ce/image.png" 
+        alt="Julia-Global-hackathon-Certified-Ready"
+        width="140"/>
     </a>
 </p>
 
