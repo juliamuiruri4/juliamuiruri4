@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!;My+name+is+Julia+Muiruri!;Motivated+Passionate+Fast-learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!;My+name+is+Julia+Muiruri)](https://git.io/typing-svg)
 
 <h1 align="center"> Hi, 👋 I'm Julia Muiruri </h1>
 
@@ -81,9 +81,9 @@
     </a>
 </p>
 
----
-
-<details align="left">
+<!-- --- -->
+<!-- Tech Stack and Tools  -->
+<!-- <details align="left">
     <summary>
         💻 Tech Stack and Tools 
     </summary>
@@ -101,8 +101,8 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-</details>
-<br>
+</details> -->
+<!-- <br> -->
 
 ---
 <details open="">
@@ -189,3 +189,15 @@
 <br>
 
 ---
+Useful links to get you started on GitHub Certifications. [Link to Register](https://examregistration.github.com/login?ReturnUrl=%2Foverview)
+- GitHub Foundations - [🔗Prepare for the Exam](https://aka.ms/exam-prep/github/foundations)
+- GitHub Actions - [🔗Prepare for the Exam](https://aka.ms/exam-prep/github/actions)
+- GitHub Advanced Security - [🔗Prepare for the Exam](https://aka.ms/exam-prep/github/security)
+- GitHub Admin - [🔗Prepare for the Exam](https://aka.ms/exam-prep/github/admin)
+- GitHub Copilot
+
+Technical previews that may interest you.
+- Using [Claude 3.5 Sonnet in GitHub Copilot](https://docs.github.com/en/copilot/using-github-copilot/using-claude-sonnet-in-github-copilot)
+- [Copilot Powered Code Reviews](https://github.com/github-copilot/code-review-waitlist) [Public Preview]
+- Copilot-Native dev environment on [GitHub Workspace](https://githubnext.com/projects/copilot-workspace) Watch [Demo here](https://youtu.be/quvyCPhqYpk?si=8Sv77Yrs1nSlxWVg)
+- Building and sharing personalized micro-apps using [GitHub Spark](https://githubnext.com/projects/github-spark)
