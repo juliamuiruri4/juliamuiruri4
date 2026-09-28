@@ -17,6 +17,7 @@
 
 - [**GitHub Copilot app Workshop | Dev Day Nairobi, 2026**](https://github.com/juliamuiruri4/dev-days-nairobi-2026)
 - [**The repository is the room | Dynamics User Group Kenya Meetup**](https://juliawakiru.dev/dug-the-repository-is-the-room/)
+- [**Learning in the Age of AI | AI Collective Kenya**](https://juliawakiru.dev/learning-in-the-age-of-ai/#slide-1)
 
 More projects, writing, and talks are on my [website](https://juliawakiru.dev).
 
