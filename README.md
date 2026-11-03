@@ -8,6 +8,8 @@
 
 ## Projects
 
+- [**Universe '26 Keyboard Virtual Assembly Playground**](https://gh.io/universe-keyboard-builder)
+- [**Universe '26 Octolamp Virtual Assembly Playground**](https://gh.io/led-octolamp-assemble)
 - [**Brainmaxxing Agent Skills**](https://gh.io/brainmaxxing/demo) - Agent skills that quiz students on software engineering concepts grounded in their actual codebase. Designed for early-career developers who co-create projects with AI and need to verify their conceptual understanding.
 - [**StudySynk**](https://youtube.com/playlist?list=PLy6i_15xgiVAbtwUg203b5jfNmVb4kVmU) - An agent-based learning management system that turns course materials into personalized, interactive learning experiences.
 - [**JavaScript AI Buildathon**](https://aka.ms/jsaibuildathon) - Hands-on resources for JavaScript developers building AI experiences.
